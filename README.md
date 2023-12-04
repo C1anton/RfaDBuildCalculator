@@ -1,4 +1,4 @@
 # SerenityBuildCalculator
-A build planning tool for the Skyrim modlist Serenity 2
+A build planning tool for the Skyrim RfaD Immersive Chicken
 
-https://airgiraffe.github.io/SerenityBuildCalculator/
+https://c1anton.github.io/RfaDBuildCalculator/
