@@ -11,7 +11,7 @@ class Race {
 }
 
 
-let altmer = new Race('altmer');
+let altmer = new Race('Альтмер');
 altmer.baseSkills = [ 
     5,      //smithing
     5,      //heavyarmor
