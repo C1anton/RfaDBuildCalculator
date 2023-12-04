@@ -38,7 +38,7 @@ altmer.baseRegens = [1.25, 0, 1.55];
 altmer.baseCarryWeight = 95;
 altmer.baseResists = [0, 75, 0];
 
-let bosmer = new Race('bosmer');
+let bosmer = new Race('Босмер');
 bosmer.baseSkills = [
     5,      //smithing
     5,      //heavyarmor
@@ -65,7 +65,7 @@ bosmer.baseRegens = [1.05, 0, 1.65];
 bosmer.baseCarryWeight = 85;
 bosmer.baseResists = [0, 75, 0];
 
-let breton = new Race('breton');
+let breton = new Race('Бретон');
 breton.baseSkills = [
     5,      //smithing
     5,      //heavyarmor
@@ -91,7 +91,7 @@ breton.baseRegens = [1.15, 0, 1.55];
 breton.baseCarryWeight = 90;
 breton.baseResists = [10, 0, 0];
 
-let dunmer = new Race('dunmer');
+let dunmer = new Race('Данмер');
 dunmer.baseSkills = [
     5,      //smithing
     5,      //heavyarmor
@@ -117,7 +117,7 @@ dunmer.baseRegens = [1.1, 0, 1.6];
 dunmer.baseCarryWeight = 100;
 dunmer.baseResists = [0, 0, 0];
 
-let imperial = new Race('imperial');
+let imperial = new Race('Имперец');
 imperial.baseSkills = [ 
     5,      //smithing
     10,      //heavyarmor
@@ -145,7 +145,7 @@ imperial.baseCarryWeight = 110;
 imperial.baseResists = [0, 0, 0];
 
 
-let khajiit = new Race('khajiit');
+let khajiit = new Race('Каджит');
 khajiit.baseSkills = [
     5,      //smithing
     5,      //heavyarmor
@@ -172,7 +172,7 @@ khajiit.baseRegens = [1, 0, 1.65];
 khajiit.baseCarryWeight = 100;
 khajiit.baseResists = [0, 0, 0];
 
-let nord = new Race('nord');
+let nord = new Race('Норд');
 nord.baseSkills = [
     15,      //smithing
     10,      //heavyarmor
@@ -199,7 +199,7 @@ nord.baseRegens = [1.05, 0, 1.65];
 nord.baseCarryWeight = 115;
 nord.baseResists = [0, 0, 0];
 
-let orismer = new Race('orismer');
+let orismer = new Race('Орк');
 orismer.baseSkills = [
     15,      //smithing
     15,      //heavyarmor
@@ -226,7 +226,7 @@ orismer.baseRegens = [1, 0, 1.7];
 orismer.baseCarryWeight = 125;
 orismer.baseResists = [5, 0, 0];
 
-let redguard = new Race('redguard');
+let redguard = new Race('Редгард');
 redguard.baseSkills = [
     10,      //smithing
     5,      //heavyarmor
@@ -254,7 +254,7 @@ redguard.baseCarryWeight = 105;
 redguard.baseResists = [0, 75, 75];
 
 
-let saxheel = new Race('saxheel');
+let saxheel = new Race('Аргонианин');
 saxheel.baseSkills = [ 
     5,      //smithing
     5,      //heavyarmor
